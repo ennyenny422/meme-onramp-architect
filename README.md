@@ -1,4 +1,4 @@
-meme-onramp-architect
+MEME-ONRAMP-ARHITECT
 
 A skill for designing and evaluating instant, multi-currency fiat-to-token purchasing flows  the "buy a meme coin the second it launches, in your own currency, no wallet funding required" pattern.
 
