@@ -20,4 +20,5 @@ This skill was built out of a real product concept: an instant meme-token purcha
 Drop SKILL.md into your Claude skills directory (or upload via the skill-creator flow). Claude will consult it automatically whenever a conversation touches instant token-buying flows, fiat on-ramps, or multi-currency payment rail design — even if the user doesn't use those exact words.
 
 ## Author
+Enny
 
