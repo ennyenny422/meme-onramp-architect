@@ -1,10 +1,10 @@
 meme-onramp-architect
 
-A Claude skill for designing and evaluating instant, multi-currency fiat-to-token purchasing flows — the "buy a meme coin the second it launches, in your own currency, no wallet funding required" pattern.
+A skill for designing and evaluating instant, multi-currency fiat-to-token purchasing flows  the "buy a meme coin the second it launches, in your own currency, no wallet funding required" pattern.
 
 ## What this skill does
 
-Helps Claude (and whoever's using it) think through:
+Helps ironclaw (and whoever's using it) think through:
 - The three payment rail options for a token on-ramp — stablecoins, local fiat (e.g. Naira), and card — ranked by build difficulty
 - Why stablecoin-first is usually the right MVP scope
 - The account-abstraction architecture needed to bundle gas + purchase into one action (NEAR-native, but adaptable)
@@ -17,7 +17,7 @@ This skill was built out of a real product concept: an instant meme-token purcha
 
 ## Usage
 
-Drop SKILL.md into your Claude skills directory (or upload via the skill-creator flow). Claude will consult it automatically whenever a conversation touches instant token-buying flows, fiat on-ramps, or multi-currency payment rail design — even if the user doesn't use those exact words.
+Drop SKILL.md into your ironclaw skills directory (or upload via the skill-creator flow).it will consult it automatically whenever a conversation touches instant token-buying flows, fiat on-ramps, or multi-currency payment rail design — even if the user doesn't use those exact words.
 
 ## Author
 Enny
