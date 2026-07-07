@@ -21,8 +21,3 @@ Drop SKILL.md into your Claude skills directory (or upload via the skill-creator
 
 ## Author
 
-Mimi (@mimionchain) — NEAR Legion / IronClaw
-
-## License
-
-MIT
